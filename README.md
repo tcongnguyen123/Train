@@ -3,7 +3,7 @@
 Text summarization is the process of extracting the most important information from a text to create a short, concise version that provides the full amount of information of the original text along with grammatical correctness. and spelling.  
 Two prominent approaches are extractive summarization (Extractive Summarization) and abstract summarization (Abstractive Summarization).
 Extractive Summarization: is a summary whose output is a summary including all important parts extracted from the input text.
-![image](https://github.com/tcongnguyen123/Train/assets/116703297/06498097-e605-4eef-8930-69df8956712d)
+![image](https://github.com/tcongnguyen123/Train/assets/116703297/06498097-e605-4eef-8930-69df8956712d
 
 Abstract Summary (Abstractive Summarization): is a summary whose output is a summary that does not retain the components of the input text but relies on important information to rewrite a new summary text.
 ![image](https://github.com/tcongnguyen123/Train/assets/116703297/0d722256-29b9-4c29-817c-ecde2e711fae)
@@ -41,4 +41,15 @@ _Result_
 ![image](https://github.com/tcongnguyen123/Train/assets/116703297/3db8ba2f-8df5-4a4f-92f0-a2233db2359f)
 ![image](https://github.com/tcongnguyen123/Train/assets/116703297/7b6f13e3-14e1-4680-92c5-708734c64d68)
 
+3. Text Summary model with Transformer :
+![image](https://github.com/tcongnguyen123/Train/assets/116703297/15b4f25e-1678-4071-bf1f-7186a2d5c93c)
 
+### Evaluate
+To evaluate the accuracy of the models, the team ran the models with the test data set, and used the ROUGE method. ROUGE stands for Recall Oriented Understudy for Gist Evaluation, this is a method considered standard and widely used in research on text summarization.
+
+![image](https://github.com/tcongnguyen123/Train/assets/116703297/1649dd7d-524d-4a4e-93e7-4c381bb8f17c)
+
+### Improve in the future
+
+To increase the accuracy of the model, an important condition is to build a better quality word2vec input data set, more accurately showing the correlation and relationship between words and tokens. Therefore, building a large and rich data set on topics and diverse vocabulary is essential for the Vietnamese text summarization model.
+Or the group will focus on a certain topic such as: education, sports, entertainment... To increase the accuracy of the model.
