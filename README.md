@@ -3,7 +3,7 @@
 Text summarization is the process of extracting the most important information from a text to create a short, concise version that provides the full amount of information of the original text along with grammatical correctness. and spelling.  
 Two prominent approaches are extractive summarization (Extractive Summarization) and abstract summarization (Abstractive Summarization).
 Extractive Summarization: is a summary whose output is a summary including all important parts extracted from the input text.
-![image](https://github.com/tcongnguyen123/Train/assets/116703297/06498097-e605-4eef-8930-69df8956712d
+![image](https://github.com/tcongnguyen123/Train/assets/116703297/f942ec55-f63d-4a06-bbdd-3c6d4403c881)
 
 Abstract Summary (Abstractive Summarization): is a summary whose output is a summary that does not retain the components of the input text but relies on important information to rewrite a new summary text.
 ![image](https://github.com/tcongnguyen123/Train/assets/116703297/0d722256-29b9-4c29-817c-ecde2e711fae)
