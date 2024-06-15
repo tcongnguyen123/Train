@@ -7,7 +7,8 @@ Extractive Summarization: is a summary whose output is a summary including all i
 
 
 Abstract Summary (Abstractive Summarization): is a summary whose output is a summary that does not retain the components of the input text but relies on important information to rewrite a new summary text.
-![image](https://github.com/tcongnguyen123/Train/assets/116703297/0d722256-29b9-4c29-817c-ecde2e711fae)
+![image](https://github.com/tcongnguyen123/Train/assets/116703297/f7e7ca96-be56-457e-90b7-2dde5f32d3b4)
+
 
 ### Preprocessing 
 ![image](https://github.com/tcongnguyen123/Train/assets/116703297/1e9b5efe-1a1b-46cd-a3ef-4d2098969d5e)
